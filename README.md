@@ -1,2 +1,3 @@
 # pbastos
-demo repo OPS 435
+Pedro Bastos
+OPS 435 NAA
